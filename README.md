@@ -1,4 +1,4 @@
-# Excel
+# IS-721 Contabilidad I
 Repositorio que  contiene Sistemas contables hechos en Excel.
 
 ## Sistema Contable : Cuentas por cobrar
